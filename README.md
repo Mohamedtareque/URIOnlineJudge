@@ -3,3 +3,5 @@ URI Online Judge is a project developed by the Computer Science Department of UR
 
 In this repository I will add all my resolutions of URI's problems. The problems can be about math, graphs,
 strings problems, data structs and more.
+
+I will add the problem in a .txt file and the answer in .c file or .cpp file.
