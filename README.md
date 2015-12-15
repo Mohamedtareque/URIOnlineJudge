@@ -10,7 +10,10 @@ I will add the problem in a .pdf file and the answer in .c file or .cpp file.
 
 ## Problems
 1. 1001: https://www.urionlinejudge.com.br/judge/en/problems/view/1001
-1. 1002: https://www.urionlinejudge.com.br/judge/en/problems/view/1002
+2. 1002: https://www.urionlinejudge.com.br/judge/en/problems/view/1002
+3. 1003: https://www.urionlinejudge.com.br/judge/en/problems/view/1003 
+4. 1004: https://www.urionlinejudge.com.br/judge/en/problems/view/1004
+5. 1005: https://www.urionlinejudge.com.br/judge/en/problems/view/1005
 
 ## Contributing
 
