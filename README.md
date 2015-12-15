@@ -14,6 +14,10 @@ I will add the problem in a .pdf file and the answer in .c file or .cpp file.
 3. 1003: https://www.urionlinejudge.com.br/judge/en/problems/view/1003 
 4. 1004: https://www.urionlinejudge.com.br/judge/en/problems/view/1004
 5. 1005: https://www.urionlinejudge.com.br/judge/en/problems/view/1005
+6. 1006: https://www.urionlinejudge.com.br/judge/en/problems/view/1006
+7. 1007: https://www.urionlinejudge.com.br/judge/en/problems/view/1007
+8. 1008: https://www.urionlinejudge.com.br/judge/en/problems/view/1008
+9. 1009: https://www.urionlinejudge.com.br/judge/en/problems/view/1009
 
 ## Contributing
 
