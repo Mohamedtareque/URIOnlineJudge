@@ -8,6 +8,10 @@ strings problems, data structs and more.
 
 I will add the problem in a .pdf file and the answer in .c file or .cpp file.
 
+## Problems
+1. 1001: https://www.urionlinejudge.com.br/judge/en/problems/view/1001
+1. 1002: https://www.urionlinejudge.com.br/judge/en/problems/view/1002
+
 ## Contributing
 
 1. Fork it!
